@@ -1,0 +1,18 @@
+.dataForm {
+	display: flex;
+	flex-direction: column;
+}
+.inputFields {
+	display: flex;
+	justify-content: space-between;
+	margin: 20px;
+}
+label {
+	padding: 5px;
+}
+.submitButton {
+	margin: 10px;
+	width: 50%;
+	height: 30px;
+	align-self: center;
+}
